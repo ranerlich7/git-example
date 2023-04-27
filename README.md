@@ -1,5 +1,5 @@
 # my first git project
-## installation & running fast
+## installing & running
 ```
 1. install the keyboard package:
 
