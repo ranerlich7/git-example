@@ -1,5 +1,5 @@
 # my first git project
-## install & run
+## installation & running fast
 ```
 1. install the keyboard package:
 
@@ -48,15 +48,17 @@ see:
 
 push changes.
 
-8. add collaborator. 
-- Show - git clone.  (show on uriel's computer)
+8. add collaborator. (show on uriel's computer)
+- Show - git clone.  
 - now i have the code.
 - push a change
 - Git pull.
 - what if i try to push?
 (show merge changes - with conflicts)
 
-9. gitignore - show adding a gitignore file
+9. git stash
+   git stash pop
+
 10. git branch
 
 11. working with visual studio code.
