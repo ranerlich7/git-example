@@ -17,9 +17,11 @@ shows the remote
 # steps
 1. show the repo we are adding via github.
     - show cd and mkdir commands in terminal
-    - explain all steps and put them in the file
+    - explain all steps from github and put them in the file
+
 2. excercise - they do it
 3. add new file
+    add a gitingore file.
     - git add .
     - git commit -am
     - git push
@@ -27,16 +29,37 @@ shows the remote
 4. now add another file and edit existing file
     - git commit -am
 
-5.  make another change
+5. excercise - they do it
+
+6.  make another change
     - git status
     - git diff
+    - git log (or reflog)
 
-5. git pull
-6. gitignore - show adding a gitignore file
-7. git branch
+7. excercise :
+- add a file
+- modify a file
+- delete a file
+see:
+- git status
+- git diff
+- git log
+- commit changes and redo (status,diff, log)
 
-8. working with visual studio code.
+push changes.
 
+8. add collaborator. 
+- Show - git clone.  (show on uriel's computer)
+- now i have the code.
+- push a change
+- Git pull.
+- what if i try to push?
+(show merge changes - with conflicts)
+
+9. gitignore - show adding a gitignore file
+10. git branch
+
+11. working with visual studio code.
 
 
 
